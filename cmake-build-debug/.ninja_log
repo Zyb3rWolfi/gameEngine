@@ -1,0 +1,9 @@
+# ninja log v5
+0	544	7263738561087321	CMakeFiles/untitled.dir/main.obj	deda17a75ef7d01a
+4	163	7263751193668696	untitled.exe	60f6b77746e856aa
+1	1352	7263749083842813	CMakeFiles/untitled.dir/main.cpp.obj	2b31391e49892ac6
+5	1267	7263766155345790	CMakeFiles/untitled.dir/mainGame.cpp.obj	74ac8d39eab148cb
+16	1344	7263766156105957	CMakeFiles/untitled.dir/main.cpp.obj	2b31391e49892ac6
+4	1254	7263766321438141	CMakeFiles/untitled.dir/main.cpp.obj	2b31391e49892ac6
+4	881	7263766944316537	CMakeFiles/untitled.dir/mainGame.cpp.obj	74ac8d39eab148cb
+881	1029	7263766945756861	untitled.exe	e533efe21d17bf2f
